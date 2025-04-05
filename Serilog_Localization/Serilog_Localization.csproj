@@ -5,7 +5,24 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 	<GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>
+	<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+	<Title>Serilog.Localization</Title>
+	<Version>v1.2</Version>
+	<Authors>IN Industry</Authors>
+	<Company>IN Industry</Company>
+	<Copyright>Copyright IN Industry 2025 all right reserved</Copyright>
+	<PackageProjectUrl>https://github.com/Independent-Network/serilog-localization</PackageProjectUrl>
+	<PackageReadmeFile>README.md</PackageReadmeFile>
+	<RepositoryUrl>https://github.com/Independent-Network/serilog-localization</RepositoryUrl>
+	<RepositoryType>git</RepositoryType>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Serilog" Version="4.2.0" />

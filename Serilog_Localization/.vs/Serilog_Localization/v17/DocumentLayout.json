@@ -30,12 +30,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Serilog_Localization",
+              "Title": "Serilog_Localization.csproj",
               "DocumentMoniker": "E:\\serilog-localization\\Serilog_Localization\\Serilog_Localization.csproj",
               "RelativeDocumentMoniker": "Serilog_Localization.csproj",
               "ToolTip": "E:\\serilog-localization\\Serilog_Localization\\Serilog_Localization.csproj",
               "RelativeToolTip": "Serilog_Localization.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-04-05T15:06:03.447Z",
               "EditorCaption": ""
@@ -74,8 +74,7 @@
               "RelativeToolTip": "CultureManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T14:05:25.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T14:05:25.531Z"
             }
           ]
         }
