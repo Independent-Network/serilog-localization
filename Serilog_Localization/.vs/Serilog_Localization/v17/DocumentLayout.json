@@ -3,16 +3,22 @@
   "WorkspaceRootPath": "E:\\serilog-localization\\Serilog_Localization\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4757AF90-339E-4AE0-BEA6-58BB67B3879E}|Serilog_Localization.csproj|e:\\serilog-localization\\serilog_localization\\serilog_localization.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{4757AF90-339E-4AE0-BEA6-58BB67B3879E}|Serilog_Localization.csproj|solutionrelative:serilog_localization.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4757AF90-339E-4AE0-BEA6-58BB67B3879E}|Serilog_Localization.csproj|e:\\serilog-localization\\serilog_localization\\serilog_localization.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4757AF90-339E-4AE0-BEA6-58BB67B3879E}|Serilog_Localization.csproj|solutionrelative:serilog_localization.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4757AF90-339E-4AE0-BEA6-58BB67B3879E}|Serilog_Localization.csproj|e:\\serilog-localization\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2DDAC0B-8A3F-4C12-A729-5053540EF982}|..\\TestApp\\TestApp.csproj|e:\\serilog-localization\\testapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4757AF90-339E-4AE0-BEA6-58BB67B3879E}|Serilog_Localization.csproj|e:\\serilog-localization\\serilog_localization\\culturemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4757AF90-339E-4AE0-BEA6-58BB67B3879E}|Serilog_Localization.csproj|solutionrelative:culturemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4757AF90-339E-4AE0-BEA6-58BB67B3879E}|Serilog_Localization.csproj|e:\\serilog-localization\\serilog_localization\\serilog_localization.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4757AF90-339E-4AE0-BEA6-58BB67B3879E}|Serilog_Localization.csproj|solutionrelative:serilog_localization.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4757AF90-339E-4AE0-BEA6-58BB67B3879E}|Serilog_Localization.csproj|e:\\serilog-localization\\serilog_localization\\loggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,11 +35,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 251,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "E:\\serilog-localization\\README.md",
+              "RelativeDocumentMoniker": "..\\README.md",
+              "ToolTip": "E:\\serilog-localization\\README.md",
+              "RelativeToolTip": "..\\README.md",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-04-05T23:11:26.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\serilog-localization\\TestApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TestApp\\Program.cs",
+              "ToolTip": "E:\\serilog-localization\\TestApp\\Program.cs",
+              "RelativeToolTip": "..\\TestApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T23:10:37.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Serilog_Localization",
               "DocumentMoniker": "E:\\serilog-localization\\Serilog_Localization\\Serilog_Localization.csproj",
               "RelativeDocumentMoniker": "Serilog_Localization.csproj",
@@ -45,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Serilog_Localization.csproj",
               "DocumentMoniker": "E:\\serilog-localization\\Serilog_Localization\\Serilog_Localization.csproj",
               "RelativeDocumentMoniker": "Serilog_Localization.csproj",
@@ -58,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Serilog_Localization\\TestApp\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\Serilog_Localization\\TestApp\\Program.cs",
@@ -70,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "LoggerExtensions.cs",
               "DocumentMoniker": "E:\\serilog-localization\\Serilog_Localization\\LoggerExtensions.cs",
               "RelativeDocumentMoniker": "LoggerExtensions.cs",
@@ -82,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CultureManager.cs",
               "DocumentMoniker": "E:\\serilog-localization\\Serilog_Localization\\CultureManager.cs",
               "RelativeDocumentMoniker": "CultureManager.cs",
@@ -90,7 +122,8 @@
               "RelativeToolTip": "CultureManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T14:05:25.531Z"
+              "WhenOpened": "2025-04-05T14:05:25.531Z",
+              "EditorCaption": ""
             }
           ]
         }

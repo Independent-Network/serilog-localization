@@ -7,4 +7,5 @@ Log.Logger = new LoggerConfiguration()
     .MinimumLevel.Debug()
     .WriteTo.Console()
     .CreateLogger();
+CultureManager.Current = new System.Globalization.CultureInfo("en-US");
 Log.Logger.DebugL("log");

@@ -24,4 +24,8 @@ Log.Logger = new LoggerConfiguration()
     .CreateLogger();
 ```
 
-Unfortunately, the extension doesn't support runtime culture change, but it might be accessible in the future.
+You can change locale while the program is running as this
+```csharp
+CultureManager.Current = new CultureInfo("en-US");
+```
+And the culture will be changed immediately.
