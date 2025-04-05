@@ -7,7 +7,7 @@
 	<GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>
 	<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 	<Title>Serilog.Localization</Title>
-	<Version>v1.2</Version>
+	<Version>$(VersionPrefix)</Version>
 	<Authors>IN Industry</Authors>
 	<Company>IN Industry</Company>
 	<Copyright>Copyright IN Industry 2025 all right reserved</Copyright>
