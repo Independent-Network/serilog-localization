@@ -1,6 +1,7 @@
 name: NuGet Package
 
 on:
+  workflow_dispatch:
   push:
     tags:
       - "v*" # 当推送v开头的标签时触发（例如v1.0.0）
