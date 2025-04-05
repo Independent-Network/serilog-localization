@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\serilog-localization\\Serilog_Localization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Serilog_Localization\\TestApp\\TestApp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4757AF90-339E-4AE0-BEA6-58BB67B3879E}|Serilog_Localization.csproj|e:\\serilog-localization\\serilog_localization\\serilog_localization.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4757AF90-339E-4AE0-BEA6-58BB67B3879E}|Serilog_Localization.csproj|solutionrelative:serilog_localization.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4757AF90-339E-4AE0-BEA6-58BB67B3879E}|Serilog_Localization.csproj|e:\\serilog-localization\\serilog_localization\\loggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4757AF90-339E-4AE0-BEA6-58BB67B3879E}|Serilog_Localization.csproj|solutionrelative:loggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4757AF90-339E-4AE0-BEA6-58BB67B3879E}|Serilog_Localization.csproj|e:\\serilog-localization\\serilog_localization\\culturemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4757AF90-339E-4AE0-BEA6-58BB67B3879E}|Serilog_Localization.csproj|solutionrelative:culturemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Serilog_Localization\\TestApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\TestApp\\TestApp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 251,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestApp.csproj",
+              "DocumentMoniker": "E:\\TestApp\\TestApp.csproj",
+              "RelativeDocumentMoniker": "..\\..\\TestApp\\TestApp.csproj",
+              "ToolTip": "E:\\TestApp\\TestApp.csproj",
+              "RelativeToolTip": "..\\..\\TestApp\\TestApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-05T14:14:26.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestApp.csproj",
+              "DocumentMoniker": "E:\\Serilog_Localization\\TestApp\\TestApp.csproj",
+              "RelativeDocumentMoniker": "..\\..\\Serilog_Localization\\TestApp\\TestApp.csproj",
+              "ToolTip": "E:\\Serilog_Localization\\TestApp\\TestApp.csproj",
+              "RelativeToolTip": "..\\..\\Serilog_Localization\\TestApp\\TestApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-05T14:12:34.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Serilog_Localization.csproj",
+              "DocumentMoniker": "E:\\serilog-localization\\Serilog_Localization\\Serilog_Localization.csproj",
+              "RelativeDocumentMoniker": "Serilog_Localization.csproj",
+              "ToolTip": "E:\\serilog-localization\\Serilog_Localization\\Serilog_Localization.csproj",
+              "RelativeToolTip": "Serilog_Localization.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-05T14:12:26.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Serilog_Localization\\TestApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Serilog_Localization\\TestApp\\Program.cs",
+              "ToolTip": "E:\\Serilog_Localization\\TestApp\\Program.cs",
+              "RelativeToolTip": "..\\..\\Serilog_Localization\\TestApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:07:45.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoggerExtensions.cs",
+              "DocumentMoniker": "E:\\serilog-localization\\Serilog_Localization\\LoggerExtensions.cs",
+              "RelativeDocumentMoniker": "LoggerExtensions.cs",
+              "ToolTip": "E:\\serilog-localization\\Serilog_Localization\\LoggerExtensions.cs",
+              "RelativeToolTip": "LoggerExtensions.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:05:27.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CultureManager.cs",
+              "DocumentMoniker": "E:\\serilog-localization\\Serilog_Localization\\CultureManager.cs",
+              "RelativeDocumentMoniker": "CultureManager.cs",
+              "ToolTip": "E:\\serilog-localization\\Serilog_Localization\\CultureManager.cs",
+              "RelativeToolTip": "CultureManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:05:25.531Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

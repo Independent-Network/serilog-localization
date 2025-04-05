@@ -1,0 +1,36 @@
+name: NuGet Package
+
+on:
+  push:
+    tags:
+      - "v*" # 当推送v开头的标签时触发（例如v1.0.0）
+
+jobs:
+  build-and-pack:
+    runs-on: windows-latest
+    environment:
+      name: production
+    steps:
+      - uses: actions/checkout@v4
+
+      # 设置.NET SDK
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: "8.0.x" # 根据你的项目调整版本
+
+      # 恢复类库项目的依赖项
+      - name: Restore dependencies
+        run: dotnet restore Serilog_Localization/Serilog_Localization.csproj
+
+      # 构建类库项目
+      - name: Build
+        run: dotnet build Serilog_Localization/Serilog_Localization.csproj --configuration Release --no-restore
+
+      # 创建NuGet包（只打包类库项目）
+      - name: Pack
+        run: dotnet pack Serilog_Localization/Serilog_Localization.csproj --configuration Release --no-build --output nupkg
+
+      # 发布到NuGet.org
+      - name: Push to NuGet
+        run: dotnet nuget push "nupkg/*.nupkg" --api-key ${{ secrets.NUGET_API_KEY }} --source https://api.nuget.org/v3/index.json
